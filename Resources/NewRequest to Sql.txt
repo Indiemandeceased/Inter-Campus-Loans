@@ -1,0 +1,84 @@
+ Dim binding_source As New BindingSource()
+    Dim data_table As New DataTable()
+    Dim data_adapter As New SqlClient.SqlDataAdapter()
+
+    Private Sub btnLoad_Click(sender As Object, e As EventArgs) Handles btnLoad.Click
+
+        Me.DataGridView1.DataSource = binding_source
+        Dim conString As String = My.Settings.NewRequestConnectionString
+
+        Dim con As New SqlClient.SqlConnection(conString)
+
+        con.Open()
+        MessageBox.Show("Connected to database, ready for new request")
+
+        data_adapter = New SqlClient.SqlDataAdapter("SELECT * From tbl_NewRequests", con)
+        Dim cb As New SqlClient.SqlCommandBuilder(data_adapter)
+
+        data_adapter.Fill(data_table)
+        binding_source.DataSource = data_table
+
+        con.Close()
+
+    End Sub
+
+    Private Sub btnNewReq_Click(sender As Object, e As EventArgs) Handles btnNewReq.Click
+
+        data_adapter.Update(CType(Me.binding_source.DataSource, DataTable))
+
+        MessageBox.Show("Database Updated, Your Request Has been Receieved")
+    End Sub
+
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        Me.Close()
+    End Sub
+
+    Private Sub btnExitApp_Click(sender As Object, e As EventArgs) Handles btnExitApp.Click
+        Me.Close()
+    End Sub
+
+    Private Sub btnUpdate_Click(sender As Object, e As EventArgs) Handles btnUpdate.Click
+        data_adapter.Update(CType(Me.binding_source.DataSource, DataTable))
+    End Sub
+
+    Private Sub btnLdedata_Click(sender As Object, e As EventArgs) Handles btnLdedata.Click
+
+        Me.DataGridView2.DataSource = Me.binding_source
+        Dim conString As String = My.Settings.NewRequestConnectionString
+
+        Dim con As New SqlClient.SqlConnection(conString)
+
+        con.Open()
+        MessageBox.Show("Connected to database, ready to recieve updates to data")
+
+        data_adapter = New SqlClient.SqlDataAdapter("SELECT * From tbl_NewRequests", con)
+        Dim cb As New SqlClient.SqlCommandBuilder(data_adapter)
+
+        data_adapter.Fill(data_table)
+        binding_source.DataSource = data_table
+
+        con.Close()
+
+    End Sub
+
+    Private Sub btnSelected_Click(sender As Object, e As EventArgs) Handles btnSelected.Click
+        Dim rowCount As Integer
+        Dim i As Integer
+
+        rowCount = DataGridView2.CurrentRow.Cells.Count
+
+        Dim message As String = ""
+
+        For i = 1 To rowCount - 1
+            message = message & " " & DataGridView2.CurrentRow.Cells(i).Value
+        Next
+
+        MessageBox.Show(message)
+
+    End Sub
+
+    Private Sub btnGo_Click(sender As Object, e As EventArgs) Handles btnGo.Click
+        Dim WebPage As String = Trim(txtAddress.Text)
+        Me.WebBrowser1.Navigate(WebPage)
+    End Sub
+End Class

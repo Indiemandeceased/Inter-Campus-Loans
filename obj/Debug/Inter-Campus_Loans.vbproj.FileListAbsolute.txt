@@ -1,0 +1,45 @@
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\InterCampusLoans_log.ldf
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\InterCampusLoans.mdf
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.exe.config
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.exe
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.pdb
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.xml
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbprojResolveAssemblyReference.cache
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Form1.resources
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Resources.resources
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbproj.GenerateResource.Cache
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbproj.CoreCompileInputs.cache
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.exe
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.xml
+T:\Learning Resource Centre\Inter Library Loans\Inter Campus Loans\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.pdb
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\InterCampusLoans_log.ldf
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\InterCampusLoans.mdf
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.exe.config
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.exe
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.pdb
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.xml
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbprojResolveAssemblyReference.cache
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Resources.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbproj.GenerateResource.Cache
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.vbproj.CoreCompileInputs.cache
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.exe
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.xml
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.pdb
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\Users_log.ldf
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\Users.mdf
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Login.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Login.resx
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Login.Designer.vb
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Login.vb
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Resources\Users.db
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.RegisterForm.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Welcome.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.NewRequest.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.PreviousRequests.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.HelpForm.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter_Campus_Loans.Heritage.resources
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.exe.manifest
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\bin\Debug\Inter-Campus_Loans.application
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.TrustInfo.xml
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.exe.manifest
+H:\Coding\Inter-Campus_Loans\Inter-Campus_Loans\obj\Debug\Inter-Campus_Loans.application
